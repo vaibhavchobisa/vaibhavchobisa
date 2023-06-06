@@ -1,21 +1,21 @@
-    <h1>
-        Hi <img style="height: 50px; width: 50px;"
-            src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
-        My name is Vaibhav Chobisa
+<h1>
+    Hi <img style="height: 50px; width: 50px;"
+        src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
+    My name is Vaibhav Chobisa
 
-    </h1>
+</h1>
 
-    <h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS</h2>
+<h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS</h2>
 
-    <ul>
-        <li>🌍 I am based out of Pune, India 🇮🇳</li>
-        <li>🖥️ Check out my website
-            <a style="color: white;" target='_blank' rel='noreferrer'
-                href="https://vaibhavchobisa.netlify.app/"><b>here</b></a>
-        </li>
-        <li>🤝 Open to collaborating on exciting projects in programming</li>
-        <li>📫 Reach out to me at: <b>vaibhav.chobisa@gmail.com</b></li>
-    </ul>
+<ul>
+    <li>🌍 I am based out of Pune, India 🇮🇳</li>
+    <li>🖥️ Check out my website
+        <a style="color: white;" target='_blank' rel='noreferrer'
+            href="https://vaibhavchobisa.netlify.app/"><b>here</b></a>
+    </li>
+    <li>🤝 Open to collaborating on exciting projects in programming</li>
+    <li>📫 Reach out to me at: <b>vaibhav.chobisa@gmail.com</b></li>
+</ul>
 
 
 
