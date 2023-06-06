@@ -1,6 +1,9 @@
-<h1>Hi My name is Vaibhav Chobisa
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Fwaving-hand%2F&psig=AOvVaw1wdOZwcj52Y6ZJVh3tNt22&ust=1686130297963000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLinvP2qrv8CFQAAAAAdAAAAABAX"
-        alt="hand-wave">
+<h1>
+    Hi My name is Vaibhav Chobisa
+    <div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1"
+        data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from
+        <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div>
+    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </h1>
 
 <h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS</h2>
