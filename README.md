@@ -1,6 +1,6 @@
 <h1>
     Hi My name is Vaibhav Chobisa
-    <img src="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" alt="handwave-gif">
+    <img src="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308.gif" alt="handwave-gif">
 </h1>
 
 <h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS</h2>
