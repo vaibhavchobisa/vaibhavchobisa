@@ -1,5 +1,5 @@
 <h1>
-    Hi <img style="height: 50px; width: 50px; background-color: red"
+    Hi <img style="height: 50px; width: 50px; color: red"
         src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
     My name is Vaibhav Chobisa
 
