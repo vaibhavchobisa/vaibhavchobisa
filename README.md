@@ -1,11 +1,11 @@
 <h1>
-    Hi <img style="height: 50px; width: 50px;"
+    Hi <img style="height: 50px; width: 50px; background-color: red"
         src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
     My name is Vaibhav Chobisa
 
 </h1>
 
-<h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS</h2>
+<h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS 🚀</h2>
 
 <ul>
     <li>🌍 I am based out of Pune, India 🇮🇳</li>
