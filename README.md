@@ -9,11 +9,14 @@
 
 <ul>
     <li>🌍 I am based out of Pune, India 🇮🇳</li>
+    <br/>
     <li>🖥️ Check out my website
         <a style="color: white;" target='_blank' rel='noreferrer'
             href="https://vaibhavchobisa.netlify.app/"><b>HERE</b></a>
     </li>
+    <br/>
     <li>🤝 Open to collaborating on exciting projects in programming</li>
+    <br/>
     <li>📫 Reach out to me at: <b>vaibhav.chobisa@gmail.com</b></li>
 </ul>
 
