@@ -5,7 +5,7 @@
 
 </h1>
 
-<h2>I am a Frontend Engineer, with experience in React JS and Vanilla JS 🚀</h2>
+<h2>I am a Frontend Engineer, with over 3 years of experience in React JS and Vanilla JS 🚀</h2>
 
 <ul>
     <li>🌍 I am based out of Pune, India 🇮🇳</li>
