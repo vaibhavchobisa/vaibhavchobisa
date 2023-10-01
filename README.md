@@ -5,7 +5,7 @@
 
 </h1>
 
-<h2>Frontend Engineer, with over 3 years of experience in React JS and Vanilla JS 🚀</h2>
+<h2>A Frontend Engineer with over 3 years of experience in React JS & Vanilla JS 🚀</h2>
 
 <ul>
     <li>🌍 Based out of Pune, India 🇮🇳</li>
