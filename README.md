@@ -1,5 +1,5 @@
 <h1>
-    Hi
+    Hi, I am Vaibhav
     <img style="height: 50px; width: 50px; color: red" src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
 </h1>
 
@@ -8,7 +8,7 @@
 <ul>
     <li>🌍 Based out of Pune, India 🇮🇳</li>
     <br/>
-    <li>🖥️ Check out my website
+    <li>🖥️ Check out my side projects
         <a style="color: white;" target='_blank' rel='noreferrer'
             href="https://vaibhavchobisa.netlify.app/"><b>HERE</b></a>
     </li>
