@@ -1,8 +1,6 @@
 <h1>
     Hi, 
     <img style="height: 50px; width: 50px; color: red" src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
-    I am Vaibhav.
-
 </h1>
 
 <h2>A Frontend Engineer with over 3 years of experience in React JS & Vanilla JS&nbsp;&nbsp;🚀</h2>
