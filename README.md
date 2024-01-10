@@ -8,7 +8,7 @@
 <ul>
     <li>🌍 Based out of Pune, India 🇮🇳</li>
     <br/>
-    <li>🖥️ Check out my side projects
+    <li>🖥️ Check out some of my work
         <a style="color: white;" target='_blank' rel='noreferrer'
             href="https://vaibhavchobisa.netlify.app/"><b>HERE</b></a>
     </li>
