@@ -3,7 +3,7 @@
     <img style="height: 50px; width: 50px; color: red" src="https://tenor.com/view/hello-yellow-hey-emoji-hand-gif-22238224.gif" alt="handwave-gif">
 </h1>
 
-<h2>A Full Stack Developer (Frontend Heavy) with over 3 years of experience in React JS, Node JS, TypeScript, and related technologies&nbsp;&nbsp;🚀</h2>
+<h2>A Full Stack Developer (Frontend Heavy) with over 3 years of experience in React JS, Node JS, JavaScript, TypeScript, and related technologies&nbsp;&nbsp;🚀</h2>
 
 <ul>
     <li>🌍 Based out of Pune, India 🇮🇳</li>
