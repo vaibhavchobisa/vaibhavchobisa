@@ -6,7 +6,7 @@
 <h2>A Full Stack Developer (Frontend Heavy) with over 4 years of experience in React JS, Node JS, JavaScript, TypeScript, and related technologies&nbsp;&nbsp;🚀</h2>
 
 <ul>
-    <li>🌍 Based out of Pune, India 🇮🇳</li>
+    <li>🌍 Based out of Bengaluru, India 🇮🇳</li>
     <br/>
     <li>🖥️ Check out some of my work
         <a style="color: white;" target='_blank' rel='noreferrer'
