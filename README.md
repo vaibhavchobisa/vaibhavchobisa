@@ -10,7 +10,7 @@
     <br/>
     <li>🖥️ Check out some of my work
         <a style="color: white;" target='_blank' rel='noreferrer'
-            href="https://vaibhavchobisa.netlify.app/"><b>HERE</b></a>
+            href="https://vaibhav.xyz/"><b>HERE</b></a>
     </li>
     <br/>
     <li>🤝 Open to collaborating on exciting projects in AI and Full Stack Development</li>
