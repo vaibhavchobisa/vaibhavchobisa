@@ -8,12 +8,7 @@
 <ul>
     <li>🌍 Based out of Bengaluru, India 🇮🇳</li>
     <br/>
-    <li>🖥️ Check out some of my work
-        <a style="color: white;" target='_blank' rel='noreferrer'
-            href="https://vaibhav.xyz/"><b>HERE</b></a>
-    </li>
-    <br/>
-    <li>🤝 Open to collaborating on exciting projects in AI and Full Stack Development</li>
+    <li>🤝 Open to collaborating on exciting projects in AI (RAG systems, multi-agent systems, etc) and traditional fullstack development</li>
     <br/>
     <li>📫 Reach out to me at: <b>vaibhav.chobisa@gmail.com</b></li>
 </ul>
